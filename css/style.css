@@ -107,6 +107,20 @@ blockquote blockquote p{
 	margin-bottom: 20px;
 }
 
+
+/*
+****************
+*=video
+****************
+*/
+
+iframe {
+	position: relative;
+	top: 110px;
+	right: 130px;
+}
+
+
 /*
 ****************
 *=footer
