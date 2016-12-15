@@ -1,0 +1,59 @@
+#s4{
+	text-align: center;
+	margin-top: 50px;
+	font-size: 120px;
+	font-family: sans-serif;
+	letter-spacing: 35px;
+	text-shadow: 5px 10px 10px red;
+}
+#s1{
+	text-align: center;
+	margin-top: 50px;
+	font-size: 120px;
+	font-family: sans-serif;
+	letter-spacing: -5px;
+	text-transform: uppercase;
+	text-shadow: 0px 2px 0px red;
+}
+#s2{
+	text-align: center;
+	margin-top: 50px;
+	font-size: 120px;
+	font-family: arial;
+	text-shadow: 0px -2px 0px white;
+}
+#s3{
+	text-align: center;
+	margin-top: 50px;
+	font-size: 120px;
+	font-family: sans-serif;
+	text-shadow: 5px -1px 0px white;
+}
+body{
+	background: grey;
+}
+
+#s5{
+	text-align: center;
+	margin-top: 50px;
+	font-size: 120px;
+	font-family: sans-serif;
+	text-shadow: 5px -1px 0px white,
+				 6px -2px 0px red;
+}
+
+#s6{
+	text-align: center;
+	margin-top: 50px;
+	font-size: 120px;
+	font-family: sans-serif;
+	text-transform: lowercase;
+	font-variant: small-caps;
+}
+
+#s7{
+	text-align: center;
+	margin-top: 50px;
+	font-size: 120px;
+	font-family: 'Delius Unicase', cursive;
+}
