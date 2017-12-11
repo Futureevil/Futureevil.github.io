@@ -73,6 +73,7 @@ body{
 	position: relative;
 	width: 960px;
 	background-color: #e88e8e;
+
 	text-align: center;
 	margin: auto;
 	font-family: sans-serif;
@@ -82,6 +83,7 @@ div.main{
 	display: block;
 	position: relative;
 	top: 170px;
+	
 }
 
 div.main p{
